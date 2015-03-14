@@ -29,7 +29,7 @@ Put the now cloned "groupoffice" folder into ownCloud "apps" folder.
 
     'groupoffice_root'=>'/path/to/groupoffice'
 
-Tested with Group-Office 5.0.75 and ownCloud 7.0.1
+Tested with Group-Office 6.1.25 and ownCloud 8.0.2
 
   If you need to specify a Group-Office config.php location you can add:
 
